@@ -1,8 +1,5 @@
 <template>
   <div class="container">
-    <div class="div">
-      <img src="/images/back.png">
-    </div>
     <div class="logo_container">
       <img class="logo" src="/images/logo.png" alt="">
     </div>

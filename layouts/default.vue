@@ -18,7 +18,6 @@ html {
   
 }
 body {
-  max-width: 360px;
   padding: 15px;
   display: flex;
   align-items: center;
@@ -61,5 +60,8 @@ body {
   background-color: #35495e;
 }
 
+div {
+  max-width: 360px;
+}
 
 </style>
